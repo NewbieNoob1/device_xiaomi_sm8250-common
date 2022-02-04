@@ -224,6 +224,9 @@ PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.audio.misound.bluetooth.enable=true
 endif
 
+# Dex
+PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := verify
+
 # Display
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.display.composer-service
