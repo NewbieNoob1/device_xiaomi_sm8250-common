@@ -43,6 +43,8 @@ dalvik.vm.dex2oat64.enabled=true
 # Display
 debug.gralloc.gfx_ubwc_disable=0
 debug.sf.disable_backpressure=1
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=20
 debug.sf.enable_hwc_vds=0
 media.wfd.max_resolution=8
 debug.sf.predict_hwc_composition_strategy=0
