@@ -8,3 +8,4 @@ get_prop(platform_app, vendor_displayfeature_prop)
 allow platform_app vendor_sysfs_battery_supply:dir search;
 allow platform_app vendor_sysfs_battery_supply:file r_file_perms;
 allow platform_app vendor_sysfs_kgsl:file r_file_perms;
+get_prop(platform_app, vendor_display_prop)
