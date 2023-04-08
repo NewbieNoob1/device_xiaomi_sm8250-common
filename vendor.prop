@@ -139,6 +139,9 @@ vendor.hw.fm.init=0
 persist.vendor.camera.logInfoMask=false
 persist.vendor.camera.perflock.enable=0
 
+# Camera
+persist.vendor.camera.logInfoMask=false
+
 # Chipset
 ro.soc.manufacturer=QTI
 ro.soc.model=SM8250
