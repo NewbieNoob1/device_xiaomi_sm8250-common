@@ -13,6 +13,10 @@ ro.vendor.camera.res.fmq.size                   u:object_r:vendor_camera_prop:s0
 ro.vendor.camera.req.fmq.size                   u:object_r:vendor_camera_prop:s0
 ro.camera.res.fmq.size                          u:object_r:vendor_camera_prop:s0
 ro.camera.req.fmq.size                          u:object_r:vendor_camera_prop:s0
+vendor.panel.display                                                                                u:object_r:vendor_camera_prop:s0
+
+# Display
+ro.vendor.display.type	                                                                            u:object_r:vendor_display_prop:s0
 
 # Displayfeature
 persist.vendor.dc_backlight.enable              u:object_r:vendor_displayfeature_prop:s0
