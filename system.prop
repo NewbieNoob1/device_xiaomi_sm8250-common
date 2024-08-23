@@ -102,6 +102,7 @@ ro.vendor.qti.core_ctl_min_cpu=2
 
 # Radio
 persist.vendor.radio.report_codec=1
+persist.vendor.vonr_setting_support=1
 
 # Logs
 persist.log.tag.AnalyticsService=S
