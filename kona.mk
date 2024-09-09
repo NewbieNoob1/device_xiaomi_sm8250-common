@@ -208,6 +208,7 @@ PRODUCT_COPY_FILES += \
 
 # Device-specific settings
 PRODUCT_PACKAGES += \
+    XiaomiDolby \
     XiaomiParts
 
 ifeq ($(TARGET_USES_MIUI_DOLBY),true)
