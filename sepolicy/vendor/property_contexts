@@ -17,6 +17,7 @@ vendor.panel.display                                                            
 
 # Display
 ro.vendor.display.type	                                                                            u:object_r:vendor_display_prop:s0
+ro.vendor.display.dynamic_refresh_rate                                                              u:object_r:vendor_display_prop:s0
 
 # Displayfeature
 persist.vendor.dc_backlight.enable              u:object_r:vendor_displayfeature_prop:s0
